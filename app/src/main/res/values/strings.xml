@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="from_text">From:</string>
+    <string name="to_text">To:</string>
+    <string name="Convert_button">Convert\n</string>
+    <string name="conv">Convert\n</string>
+</resources>
